@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Des liens utiles
 ---
 
-We are dflùvnrmbvirvlc fgmvnùdmfvfl gnvzrofmnvdfvnsfglnbfgmkvnscnlbfgv
-sdfvndmfmvndfvnsodnv
-sdfvndfivnlzrovndnlvzv
+[Bac'21 Support group](https://drive.google.com/drive/folders/1SVKblvNKhom0MYyRLHjEqsPW3fevdus9)
