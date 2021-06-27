@@ -13,7 +13,8 @@ Un drive qui contient des documents utiles pour les sections scientifiques dans 
 Une page facebook par Mr. Haikel Jaber, prof de maths. Il y publie régulièrement des exercices et leurs corrigés:   <a href="https://www.facebook.com/profile.php?id=100057160732147" target="_blank">Math +(haikel jaber)</a>
 \
 \
-Un drive qui contient des examens, des exercices, des corrigés et des cours dans toutes les matières d'un élève du bac 21 section math:   <a href="https://drive.google.com/drive/folders/1SVKblvNKhom0MYyRLHjEqsPW3fevdus9" target="_blank">Bac'21 Support group</a> \
+Un drive qui contient des examens, des exercices, des corrigés et des cours dans toutes les matières d'un élève du bac 21 section math:   <a href="https://drive.google.com/drive/folders/1SVKblvNKhom0MYyRLHjEqsPW3fevdus9" target="_blank">Bac'21 Support group</a>
+\
 \
 
 .
