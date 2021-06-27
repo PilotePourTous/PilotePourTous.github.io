@@ -4,12 +4,10 @@ title: about
 permalink: /about/
 ---
 
-Some information about you!
+We are a group of students that want to empower Tunisian education and make it accessible to everybody.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place for high schoolers to share valuable resources.
 
 ### Contact us
-
-[nucleisthedi@gmail.com](nucleisthedi@gmail.com)
