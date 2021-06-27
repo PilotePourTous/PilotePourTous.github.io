@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-We are a group of students that want to empower Tunisian education and make it accessible to everybody.
+We are a group of students that wants to empower Tunisian education and make it accessible to everybody.
 
 ### More Information
 
