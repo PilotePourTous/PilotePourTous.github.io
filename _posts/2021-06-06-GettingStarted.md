@@ -12,4 +12,5 @@ Une page facebook par Mr. Haikel Jaber, prof de maths. Il y publie régulièreme
 \
 Un drive qui contient des examens, des exercices, des corrigés et des cours dans toutes les matières d'un élève du bac 21 section math:   [Bac'21 Support group](https://drive.google.com/drive/folders/1SVKblvNKhom0MYyRLHjEqsPW3fevdus9)\
 \
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 .
