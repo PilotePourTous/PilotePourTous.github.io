@@ -2,6 +2,7 @@
 layout: post
 title: Des liens utiles
 ---
+Ceci est une liste de liens que nous trouvons utiles pour vos études tout au long de l'année.\
 Les épreuves du BAC et leurs corrigés:   [bacweb](http://www.bacweb.tn/)\
 \
 Un drive qui contient des examens, des exercices, des corrigés et des cours dans toutes\
